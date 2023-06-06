@@ -6,7 +6,10 @@
 	margin-top: 100px;
 	
 }
-
+h2{
+	color: red;
+	
+}
 .initial_pos_card2 {
 
 	position: sticky;
