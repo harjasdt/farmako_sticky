@@ -1,0 +1,69 @@
+.initial_pos_card1 {
+
+	position: sticky;
+	left: 25vw;
+	top:25vh;
+	margin-top: 100px;
+	
+}
+
+.initial_pos_card2 {
+
+	position: sticky;
+	left: 25vw;
+	top:25vh;
+	margin-top: 120px;
+	
+}
+
+.initial_pos_card3 {
+
+	position: sticky;
+	left: 25vw;
+	top:25vh;
+	margin-top: 140px;
+	
+}
+
+.initial_pos_card4 {
+
+	position: sticky;
+	left: 25vw;
+	top:25vh;
+	margin-top: 160px;
+	
+}
+
+
+
+#card1  {
+
+	background-color: #52B2CF;
+}
+#card2  {
+	/* background-color: #7EC4CF; */
+	background-color: #E5A36F;
+}
+#card3  {
+	background-color: #9CADCE;
+}
+#card4  {
+	background-color: #D4AFB9;
+}
+
+#cord{
+	color: black;
+	position: fixed;
+
+}
+
+.card-body{
+	height: 100px;
+	width: 50%;
+	border-radius: 10px;
+	text-align: center;
+	
+}
+h2{
+	padding-top: 30px;
+}
